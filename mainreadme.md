@@ -1,11 +1,18 @@
-# PF LAB 3
-## GitHub
+# PF LAB 3 #
+## GitHub ##
+
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/a8241cfd-a915-42da-9053-fbaf205f8d9d" />
+
 ###### Week 3 (final hashtag)
 \
 hello (normal)\
 *hello* (italic)\
 **hello** (bold)\
-***hello*** (bold & italic)
+***hello*** (bold & italic)\
+~~hello~~ (this is strikethrough)
+
+
+
 
 ### Main Concepts
 * Branch
@@ -18,10 +25,12 @@ hello (normal)\
   4. Push
   5. pull ~~By Mistake~~\
      
-  - [x] . complete
   - [ ] . incomplete
-  - [x] . done js\
-  ![lol](https://myoctocat.com/assets/images/base-octocat.svg)
+  - [x] . complete js\
+  ![Cartoon Cat](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
   
  
   
